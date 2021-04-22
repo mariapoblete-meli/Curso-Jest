@@ -1,0 +1,14 @@
+{
+  "name": "cursojest",
+  "version": "1.0.0",
+  "description": "curso de pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Maria Jose Poblete",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

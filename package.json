@@ -4,7 +4,10 @@
   "description": "curso de pruebas unitarias con jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:snapshot": "jest --updateSnapshot"
   },
   "author": "Maria Jose Poblete Mauro",
   "license": "MIT",
